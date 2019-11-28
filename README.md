@@ -3,7 +3,9 @@ Trabalho Final
 
 
 **Clonar projeto do heroku:** <br />
-heroku git:clone -a nome-do-app <br /> <br />
+```
+heroku git:clone -a nome-do-app 
+```
 **Atualizar projeto com nova versão do github** <br />
 **1.** Acessar pasta (Se a pasta veio do clone do heroku, provavelmente o nome da pasta será o nome do app. Se veio do clone do github, será o nome do repositório)<br />
 ```
